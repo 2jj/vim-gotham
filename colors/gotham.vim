@@ -276,4 +276,4 @@ unlet s:linenr_background
 
 " Remove vertical split line ==================================================
 
-set fillchars+=vert:\
+set fillchars+=vert:\ 

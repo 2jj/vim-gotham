@@ -109,7 +109,7 @@ let g:terminal_color_15 = g:terminal_color_7
 " Native highlighting ==========================================================
 
 let s:background = 'base0'
-let s:linenr_background = 'base1'
+let s:linenr_background = 'base0'
 
 " Everything starts here.
 call s:Col('Normal', 'base6', s:background)

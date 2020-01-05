@@ -273,3 +273,7 @@ call s:Col('NeomakeError', 'red')
 unlet s:colors
 unlet s:background
 unlet s:linenr_background
+
+" Remove vertical split line ==================================================
+
+set fillchars+=vert:\
